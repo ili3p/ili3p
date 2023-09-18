@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 Even though I have a public GitHub profile, most of my code these days is paid for and thus closed-source. So I cannot publish here the interesting code I have most recently written. 
 
