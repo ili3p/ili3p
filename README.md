@@ -1,5 +1,5 @@
 [Nov 2023]
-### Hi there
+### Hey
 
 Even though I have a public GitHub profile, most of my code these days is paid for and thus closed-source. So I cannot publish here the interesting code that I have most recently written. 
 
